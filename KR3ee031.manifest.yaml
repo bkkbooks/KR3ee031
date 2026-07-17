@@ -45,7 +45,7 @@ assets:
   - {seq: 8, role: markers, filename: assets/KR3ee031_008.markers.yaml, hash: 'sha256:e2d96094b14f948a1f219d3df372ddd2683d15522421b36de2f3f19c8c7aa335'}
   - {seq: 9, role: markers, filename: assets/KR3ee031_009.markers.yaml, hash: 'sha256:6ad5dbc0afb779075ebd3c77360fdbc4c6481594be12723db54d3c00227d1e8a'}
   - {seq: 10, role: markers, filename: assets/KR3ee031_010.markers.yaml, hash: 'sha256:79e7a2006d330d0c280e9530542a189e21b06eeee977f5db471a34904bdfef81'}
-  - {seq: 11, role: markers, filename: assets/KR3ee031_011.markers.yaml, hash: 'sha256:0ff53265818f4bc578ac5b2f77a725a051dbd8c04cdd730168184a28ab551691'}
+  - {seq: 11, role: markers, filename: assets/KR3ee031_011.markers.yaml, hash: 'sha256:14e6b101c295e0c6a3df71df624932f40281238ad3f023665147e2d1039caa88'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1967,7 +1967,7 @@ table_of_contents:
   label: 馬丹陽天星十二穴
   type: section
   level: 3
-hash: sha256:1103db84424a89892f405bf1bd26a82d401072bfcbd90585f739ba59505d175c
+hash: sha256:a5f323ddad6e5858da904abb26eb080ebae0f2cce551f2380fb7c817755d628e
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
