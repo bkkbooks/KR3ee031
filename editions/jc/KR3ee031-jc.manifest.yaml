@@ -17,7 +17,7 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 0, filename: KR3ee031_000-jc.yaml, hash: 'sha256:189500783cdc9ae74a58ae5ea6643d7c61c30eed12fa1415a467f1def1d420b2'}
+  - {seq: 0, filename: KR3ee031_000-jc.yaml, hash: 'sha256:da7d855f4013ec7cfc971690d04fee9355d2e2142dc18c45a79867e142586e3c'}
   - {seq: 1, filename: KR3ee031_001-jc.yaml, hash: 'sha256:72e947e77e6090d355bb7a5bfa80bb068b5dbd50a684d0bc5a21d33aa70bc460'}
   - {seq: 2, filename: KR3ee031_002-jc.yaml, hash: 'sha256:d68014f8a22eefb2f84155284269e5d6b01f2b340e66eb7cc9457b6b7b4b0f1a'}
   - {seq: 3, filename: KR3ee031_003-jc.yaml, hash: 'sha256:f926557e039c4e893021e1470a163b71e9d65c28541b1dd2aef9285decf85251'}
@@ -34,7 +34,7 @@ assets:
   - {seq: 3, filename: KR3ee031_003-jc.yaml, hash: 'sha256:73ba7990ff69383611ca293caf6809d3210b1a36d0dbac8b20b49a19752b7b52'}
   - {seq: 4, filename: KR3ee031_004-jc.yaml, hash: 'sha256:b24b74b1f2ee33116378bc18e7ce90431568cbf5156d4a08ffb9916ca4e80f55'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ee031_000-jc.markers.yaml, hash: 'sha256:a23ba3044817c94f7f772ae0862d7e1d946173400935d311ec540efcb4bb5f73'}
+  - {seq: 0, role: markers, filename: assets/KR3ee031_000-jc.markers.yaml, hash: 'sha256:ff009436897b105cc5983f8c7fcf9acd52dd3719379164318428d659246b3e2e'}
   - {seq: 1, role: markers, filename: assets/KR3ee031_001-jc.markers.yaml, hash: 'sha256:61e9b4418f51ee2a996690143871d6cc3bb52496d64ddb6cf5b9024d8acaf68b'}
   - {seq: 2, role: markers, filename: assets/KR3ee031_002-jc.markers.yaml, hash: 'sha256:f9559d01bdce9d12d67322eb7bbad944382acffaf2fcd832e43a583210dda3f1'}
   - {seq: 3, role: markers, filename: assets/KR3ee031_003-jc.markers.yaml, hash: 'sha256:0a9190b7b0f21a9373ca09809406f2cbe370e47fe22b0abbc583760c4a758eb3'}
@@ -51,7 +51,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ee031_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 1572
   label: 序
@@ -61,7 +61,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ee031_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 1572
     - 2039
   label: 序
@@ -1967,4 +1967,4 @@ table_of_contents:
   label: 馬丹陽天星十二穴
   type: section
   level: 3
-hash: sha256:0ff35d9529f6ecc66de5ba2b604b77ff81055e5f601cfd6b75dda31cc51bef85
+hash: sha256:a6dc1386742842126c314f63046bfb6fb4af47e59683926a32fdea4a01ddf2b0

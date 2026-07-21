@@ -17,7 +17,7 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ee031_000.yaml, hash: 'sha256:fd7e58ab9c130bd23e7e4aec382d42e7657708d418ed109c1394b99830474af8'}
+  - {seq: 0, filename: KR3ee031_000.yaml, hash: 'sha256:e8f931993dbb79c4a76d5f58467e63b2347f54c2d2d25515cacd425a0a8247ec'}
   - {seq: 1, filename: KR3ee031_001.yaml, hash: 'sha256:9a8c6f79937ed93a36b54f64f62883d30d29dd9be6ecef61a1a5433605687540'}
   - {seq: 2, filename: KR3ee031_002.yaml, hash: 'sha256:1f26b370c81fc8f5695cf26f225b53bc791e8f19661cb4fef9952046ecda90f0'}
   - {seq: 3, filename: KR3ee031_003.yaml, hash: 'sha256:6c43671ab913e2621462bde9cf4523952255e5871ff0a489b5352f5cfbd9d177'}
@@ -34,7 +34,7 @@ assets:
   - {seq: 3, filename: KR3ee031_003.yaml, hash: 'sha256:6c43671ab913e2621462bde9cf4523952255e5871ff0a489b5352f5cfbd9d177'}
   - {seq: 4, filename: KR3ee031_004.yaml, hash: 'sha256:d3121558ad6050099dc883e54077a07d97dc08e9c3316d6f68409011e4c36945'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ee031_000.markers.yaml, hash: 'sha256:f9036d33912ac20dcffe6df870105feb9ac53113b222b997a741440f56f78402'}
+  - {seq: 0, role: markers, filename: assets/KR3ee031_000.markers.yaml, hash: 'sha256:903e55c26d34ef08253e1319cc6849e79f5cd1c5c09799653aab774e8b999e61'}
   - {seq: 1, role: markers, filename: assets/KR3ee031_001.markers.yaml, hash: 'sha256:45d1ab666e94a737a2848f786088d59679ca143b7b35fe0d988ee3525373a41d'}
   - {seq: 2, role: markers, filename: assets/KR3ee031_002.markers.yaml, hash: 'sha256:883ff0ee2f9807d78e6091372af954203eba66063d8c7b3d663345b7652db29d'}
   - {seq: 3, role: markers, filename: assets/KR3ee031_003.markers.yaml, hash: 'sha256:43bbfce2595076f7ed79979a798d0da7e789f0739d92ae4aaff51ce32164f5a3'}
@@ -51,7 +51,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ee031_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 1572
   label: 序
@@ -61,7 +61,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ee031_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 1572
     - 2039
   label: 序
@@ -1967,7 +1967,7 @@ table_of_contents:
   label: 馬丹陽天星十二穴
   type: section
   level: 3
-hash: sha256:a5f323ddad6e5858da904abb26eb080ebae0f2cce551f2380fb7c817755d628e
+hash: sha256:8481d773aea1aaece75fba61dc0b8c3da090751a79de8a3cd075ce0daa169d1f
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
